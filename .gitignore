@@ -1,3 +1,6 @@
+app/ignored/
+models/
+datasets/zips/
 bin/
 share/
 include/
